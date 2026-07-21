@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T16:26:40.478909+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-07-21T19:07:45.641228+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "吃瓜 八卦 爆料 恋情 官宣 绯闻 分手 复合 结婚 离婚 前任 前妻 前夫 辟谣 回应 道歉 热议 反转 翻车 争议 退票 害羞",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
         {
           "title": "余文乐宣布离婚",
@@ -58,8 +58,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时02分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[08时02分 ~ 19时07分]"
         },
         {
           "title": "影视飓风被指一群员工陪老板演松弛感白人，影视飓风回应「解读太恶毒」，如何看待此事？",
@@ -71,19 +71,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 19时07分]"
         },
         {
-          "title": "TES官宣fengyue转会至NIP",
-          "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3fengyue%E8%BD%AC%E4%BC%9A%E8%87%B3NIP",
-          "source": "bilibili 热搜",
+          "title": "1.5万元机票退票仅退432元：携程称系航司规定，航司客服称费用需与平台确认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33623764",
+          "source": "澎湃新闻",
           "ranks": [
+            17,
+            9,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 19时07分]"
+        },
+        {
+          "title": "暂别赛场!Bin官宣休息",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356380&amp;topic_name=%E6%9A%82%E5%88%AB%E8%B5%9B%E5%9C%BA%21Bin%E5%AE%98%E5%AE%A3%E4%BC%91%E6%81%AF",
+          "source": "贴吧",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "19时07分"
         },
         {
           "title": "携程回应1.5万元机票退票仅退432元",
@@ -96,19 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 13时20分]"
-        },
-        {
-          "title": "1.5万元机票退票仅退432元：携程称系航司规定，航司客服称费用需与平台确认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33623764",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 16时26分]"
         },
         {
           "title": "开推月经片段引韩网热议",
@@ -134,6 +134,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时57分 ~ 06时06分]"
+        },
+        {
+          "title": "TES官宣fengyue转会至NIP",
+          "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3fengyue%E8%BD%AC%E4%BC%9A%E8%87%B3NIP",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 19时07分]"
         },
         {
           "title": "如何评价 ShowMaker 在 EWC 面对现场观众嘘声时的回应？",
@@ -182,6 +194,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时02分 ~ 09时35分]"
+        },
+        {
+          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
+          "url": "https://wallstreetcn.com/articles/3777521",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 19时07分]"
         },
         {
           "title": "1.5万元机票退票仅退432元",
@@ -239,24 +263,13 @@
           "time_info": "[02时57分 ~ 02时58分]"
         },
         {
-          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
-          "url": "https://wallstreetcn.com/articles/3777521",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "怡颗莓回应检出致癌物",
           "url": "https://www.toutiao.com/trending/7664848376353197614/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -267,9 +280,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "马宁首次回应无缘主哨淘汰赛，称到现在都不知道为什么，配置问题不是核心原因，那问题可能出在哪里？",
+          "url": "https://www.zhihu.com/question/2062863345573803605",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "峨眉山猴子“克星”现身？景区回应",
+          "url": "https://www.baidu.com/s?wd=%E5%B3%A8%E7%9C%89%E5%B1%B1%E7%8C%B4%E5%AD%90%E2%80%9C%E5%85%8B%E6%98%9F%E2%80%9D%E7%8E%B0%E8%BA%AB%EF%BC%9F%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "氧化锆龙头官宣涨价，板块多股大涨",
@@ -278,7 +313,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -300,9 +335,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
+          "url": "https://www.zhihu.com/question/2061399390741337380",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "周一（7月20日）纽约尾盘，ICE美元指数涨0.20%，报100.964点，日内交投区间为100.650-101.027点，整体呈现出V形反转行情。 彭博美元指数涨0.03%，报1217.41点，日内交投区间为1215.57-1218.47点。",
@@ -316,13 +362,24 @@
           "time_info": "04时27分"
         },
         {
+          "title": "相亲2天花33万闪婚 1月后女方提离婚",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E4%BA%B22%E5%A4%A9%E8%8A%B133%E4%B8%87%E9%97%AA%E5%A9%9A+1%E6%9C%88%E5%90%8E%E5%A5%B3%E6%96%B9%E6%8F%90%E7%A6%BB%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "评论员：稳市场不等于市场立刻反转",
           "url": "https://www.toutiao.com/trending/7664811130665045558/",
           "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -355,7 +412,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -377,9 +434,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "“最爱发钱的老板”回应为何发现金",
+          "url": "https://www.toutiao.com/trending/7664842119212597286/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "水务局回应老人往松花江倒牛奶",
@@ -388,7 +456,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -413,12 +481,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "水务局回应老人往松花江倒牛奶",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%8A%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E8%80%81%E4%BA%BA%E5%BE%80%E6%9D%BE%E8%8A%B1%E6%B1%9F%E5%80%92%E7%89%9B%E5%A5%B6",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     },
     {
       "keyword_group": "明星 艺人 演员 歌手 偶像 爱豆 综艺 电影 电视剧 新剧 票房 定档 预告 红毯 路透 生图 粉丝 追星 演唱会 音乐节 路演 杀青 开机 阵容 回归 造型 同框 互动 嗑CP",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "复仇者联盟5正式预告公布",
@@ -456,11 +535,12 @@
             8,
             13,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时57分 ~ 16时26分]"
+          "appearance_count": 13,
+          "time_info": "[02时57分 ~ 19时07分]"
         },
         {
           "title": "鸣潮演唱会官方录播",
@@ -520,6 +600,17 @@
           "time_info": "[00时36分 ~ 06时06分]"
         },
         {
+          "title": "复联5预告解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%945%E9%A2%84%E5%91%8A%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "复联5预告有哪些彩蛋细节",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%945%E9%A2%84%E5%91%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%A9%E8%9B%8B%E7%BB%86%E8%8A%82",
           "source": "bilibili 热搜",
@@ -558,6 +649,19 @@
           "time_info": "[11时40分 ~ 13时20分]"
         },
         {
+          "title": "一念江南开机",
+          "url": "https://www.douyin.com/hot/2579339",
+          "source": "抖音",
+          "ranks": [
+            12,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 19时07分]"
+        },
+        {
           "title": "文旅厅回应王力宏演唱会观众喊退票",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%8E%85%E5%9B%9E%E5%BA%94%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -581,19 +685,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时57分 ~ 16时26分]"
-        },
-        {
-          "title": "一念江南开机",
-          "url": "https://www.douyin.com/hot/2579339",
-          "source": "抖音",
-          "ranks": [
-            12,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 16时26分]"
         },
         {
           "title": "蔡依林演唱会过半了天还没黑",
@@ -642,6 +733,18 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
+          "title": "成吉思鸡小哥致谢中国粉丝",
+          "url": "https://www.douyin.com/hot/2579641",
+          "source": "抖音",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 19时07分]"
+        },
+        {
           "title": "王楚然说最喜欢张凌赫旗袍抱造型",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%AF%B4%E6%9C%80%E5%96%9C%E6%AC%A2%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%97%97%E8%A2%8D%E6%8A%B1%E9%80%A0%E5%9E%8B%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -687,15 +790,26 @@
           "time_info": "[11时40分 ~ 11时45分]"
         },
         {
-          "title": "成吉思鸡小哥致谢中国粉丝",
-          "url": "https://www.douyin.com/hot/2579641",
-          "source": "抖音",
+          "title": "王源提到了TFBOYS演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%8F%90%E5%88%B0%E4%BA%86TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "19时07分"
+        },
+        {
+          "title": "魏大勋十日终焉戴眼镜路透",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E6%88%B4%E7%9C%BC%E9%95%9C%E8%B7%AF%E9%80%8F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "阿哲回归秀老友欢聚",
@@ -704,7 +818,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -718,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "黄子韬泪洒演唱会",
+          "url": "https://www.douyin.com/hot/2579717",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "被星爷留联系方式的演员感谢深圳",
@@ -852,7 +977,7 @@
     },
     {
       "keyword_group": "一个人 小时候 童年 怀旧 夏天 暑假 周末 滤镜 拍照 故事感 生活方式 月租 租房 独居 合租 城市生活",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "小时候吃的很多水果都慢慢消失了",
@@ -944,9 +1069,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "谁来救救瘦子在夏天的食欲",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E7%98%A6%E5%AD%90%E5%9C%A8%E5%A4%8F%E5%A4%A9%E7%9A%84%E9%A3%9F%E6%AC%B2&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "小时候吃的老式水果为何消失了",
@@ -963,7 +1099,7 @@
     },
     {
       "keyword_group": "上班 下班 职场 工作 打工人 摸鱼 同事 老板 加班 通勤 离职 跳槽 工位 请假 暑假工",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宁波一电子厂规定夏天辞职扣款三千元，称多人冒充长期工应聘，离职会浪费培训投入，培训成本该转嫁给员工吗？",
@@ -1012,15 +1148,37 @@
           "time_info": "[11时40分 ~ 11时45分]"
         },
         {
+          "title": "张若昀白客演我上班嘴替",
+          "url": "https://www.douyin.com/hot/2579291",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 19时07分]"
+        },
+        {
           "title": "国家定指标：1小时通勤覆盖75%人口",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%AE%9A%E6%8C%87%E6%A0%87%EF%BC%9A1%E5%B0%8F%E6%97%B6%E9%80%9A%E5%8B%A4%E8%A6%86%E7%9B%9675%25%E4%BA%BA%E5%8F%A3",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "员工嫌弃母亲被老板直接辞退",
+          "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%AB%8C%E5%BC%83%E6%AF%8D%E4%BA%B2%E8%A2%AB%E8%80%81%E6%9D%BF%E7%9B%B4%E6%8E%A5%E8%BE%9E%E9%80%80",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "雪佛龙(CVX.N)：该平台所有工作人员在海湾风暴来临前已转移至岸上。",
@@ -1032,77 +1190,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "张若昀白客演我上班嘴替",
-          "url": "https://www.douyin.com/hot/2579291",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "情感 失恋 焦虑 委屈 emo 心事 内耗 治愈 孤独 情绪 崩溃 压力 自我 热爱 幸运 松弛感",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "影视飓风被吐槽演松弛感白人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356370&amp;topic_name=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A2%AB%E5%90%90%E6%A7%BD%E6%BC%94%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%99%BD%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "人一旦找到热爱",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E6%89%BE%E5%88%B0%E7%83%AD%E7%88%B1&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 08时03分]"
-        },
-        {
-          "title": "一个人怎么可以幸运到这种地步",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%80%8E%E4%B9%88%E5%8F%AF%E4%BB%A5%E5%B9%B8%E8%BF%90%E5%88%B0%E8%BF%99%E7%A7%8D%E5%9C%B0%E6%AD%A5&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时06分 ~ 09时35分]"
-        },
-        {
-          "title": "AI都扛不住反复焦虑的人",
-          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E5%8F%8D%E5%A4%8D%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         }
       ]
     },
     {
       "keyword_group": "单身 恋爱 相亲 脱单 暧昧 表白 约会 对象 另一半 男朋友 女朋友 伴侣 婚恋 催婚 异地恋 网恋 依赖 边界感 情绪价值 安全感",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "过度依赖另一半会失去自我吗",
@@ -1141,6 +1234,100 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 16时26分]"
+        },
+        {
+          "title": "26岁女子恋爱后体检发现自己是男性",
+          "url": "https://www.toutiao.com/trending/7664830013404921862/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "情感 失恋 焦虑 委屈 emo 心事 内耗 治愈 孤独 情绪 崩溃 压力 自我 热爱 幸运 松弛感",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "人一旦找到热爱",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E6%89%BE%E5%88%B0%E7%83%AD%E7%88%B1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 08时03分]"
+        },
+        {
+          "title": "影视飓风被吐槽演松弛感白人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356370&amp;topic_name=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A2%AB%E5%90%90%E6%A7%BD%E6%BC%94%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%99%BD%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 19时07分]"
+        },
+        {
+          "title": "一个人怎么可以幸运到这种地步",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%80%8E%E4%B9%88%E5%8F%AF%E4%BB%A5%E5%B9%B8%E8%BF%90%E5%88%B0%E8%BF%99%E7%A7%8D%E5%9C%B0%E6%AD%A5&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时06分 ~ 09时35分]"
+        },
+        {
+          "title": "AI都扛不住反复焦虑的人",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E5%8F%8D%E5%A4%8D%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "音乐 新歌 歌曲 歌单 演唱会 音乐节 乐队 专辑 单曲 巡演 舞台 耳机 Kpop 说唱 民谣",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Jennie新歌MV男主",
+          "url": "https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8CMV%E7%94%B7%E4%B8%BB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "许秀EWC夺冠单曲",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B8%E7%A7%80EWC%E5%A4%BA%E5%86%A0%E5%8D%95%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     },
@@ -1171,23 +1358,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时35分 ~ 13时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "音乐 新歌 歌曲 歌单 演唱会 音乐节 乐队 专辑 单曲 巡演 舞台 耳机 Kpop 说唱 民谣",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Jennie新歌MV男主",
-          "url": "https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8CMV%E7%94%B7%E4%B8%BB%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         }
       ]
     }
