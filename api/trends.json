@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T01:18:22.982583+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-23T03:16:22.828243+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "明星 艺人 演员 歌手 偶像 爱豆 综艺 电影 电视剧 新剧 票房 定档 预告 红毯 路透 生图 粉丝 追星 演唱会 音乐节 路演 杀青 开机 阵容 回归 造型 同框 互动 嗑CP",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "张伟丽晒出化妆造型「秒变甜妹，反差感拉满」，网友惊呼这是谁，化妆对人的加持有多离谱？",
@@ -15,19 +15,55 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "Crisp回归首个MVP",
           "url": "https://search.bilibili.com/all?keyword=Crisp%E5%9B%9E%E5%BD%92%E9%A6%96%E4%B8%AAMVP",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
+          "url": "https://www.zhihu.com/question/2062878068759160084",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "王楚然张凌赫新剧好看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%89%A7%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "张伟丽晒造型反差感拉满",
+          "url": "https://www.douyin.com/hot/2580317",
+          "source": "抖音",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "曝演员片酬从2亿降到最高2500万",
@@ -41,44 +77,22 @@
           "time_info": "01时18分"
         },
         {
+          "title": "如何评价日本电影《花束般的恋爱》？",
+          "url": "https://www.zhihu.com/question/461455834",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
           "title": "崔晋为妈妈上综艺打call",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%99%8B%E4%B8%BA%E5%A6%88%E5%A6%88%E4%B8%8A%E7%BB%BC%E8%89%BA%E6%89%93call%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
-          "url": "https://www.zhihu.com/question/2062878068759160084",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "王楚然张凌赫新剧好看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%89%A7%E5%A5%BD%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "张伟丽晒造型反差感拉满",
-          "url": "https://www.douyin.com/hot/2580317",
-          "source": "抖音",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -110,7 +124,7 @@
     },
     {
       "keyword_group": "吃瓜 八卦 爆料 恋情 官宣 绯闻 分手 复合 结婚 离婚 前任 前妻 前夫 辟谣 回应 道歉 热议 反转 翻车 争议 退票 害羞",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "足协辟谣米利西奇辞职",
@@ -120,8 +134,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "多位中国公民在沙特被捕，中使馆回应",
@@ -131,8 +145,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
@@ -142,8 +156,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "东山精密回应光模块被盗窃",
@@ -153,19 +167,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "小红书回应IPO传闻：相关信息均不属实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634641",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "暂别赛场!Bin官宣休息",
@@ -175,19 +190,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "公孙离寒羽凝歌皮肤爆料",
           "url": "https://www.douyin.com/hot/2581249",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "公孙离寒羽凝歌皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AD%99%E7%A6%BB%E5%AF%92%E7%BE%BD%E5%87%9D%E6%AD%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "双高胎向魏大勋道歉",
@@ -201,15 +229,67 @@
           "time_info": "01时18分"
         },
         {
-          "title": "公孙离寒羽凝歌皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AD%99%E7%A6%BB%E5%AF%92%E7%BE%BD%E5%87%9D%E6%AD%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
+          "title": "广东一景区泳池惊现游蛇 景区回应",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%99%AF%E5%8C%BA%E6%B3%B3%E6%B1%A0%E6%83%8A%E7%8E%B0%E6%B8%B8%E8%9B%87+%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            27
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "朋友 友情 闺蜜 兄弟 搭子 搭伴 社交 同频 社恐 社牛 内向 外向 人际关系 断联 聊天 沟通",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "突然讨厌朋友的原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E8%AE%A8%E5%8E%8C%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "派拉蒙天舞1100亿美元收购华纳兄弟探索公司的交易获得欧盟有条件的批准。",
+          "url": "https://wallstreetcn.com/livenews/3138345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "03时16分"
+        },
+        {
+          "title": "派拉蒙天舞1100亿美元收购华特兄弟获欧盟绿灯",
+          "url": "https://flash.jin10.com/detail/20260723021717160800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
@@ -225,47 +305,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "当我在暑假和crush表白成功后",
           "url": "https://www.douyin.com/hot/2581303",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "朋友 友情 闺蜜 兄弟 搭子 搭伴 社交 同频 社恐 社牛 内向 外向 人际关系 断联 聊天 沟通",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "突然讨厌朋友的原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E8%AE%A8%E5%8E%8C%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "为什么要说尽量少跟AI倾诉聊天",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         }
       ]
     },
@@ -281,19 +334,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "日本鼓励男性穿短裤上班引女职员不满",
           "url": "https://www.toutiao.com/trending/7665183140259889178/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         }
       ]
     },
@@ -309,8 +363,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         }
       ]
     },
@@ -323,11 +377,12 @@
           "url": "https://www.douyin.com/hot/2579684",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
         }
       ]
     },
