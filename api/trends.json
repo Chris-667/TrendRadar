@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-22T13:49:43.712977+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-07-22T16:27:28.528387+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "吃瓜 八卦 爆料 恋情 官宣 绯闻 分手 复合 结婚 离婚 前任 前妻 前夫 辟谣 回应 道歉 热议 反转 翻车 争议 退票 害羞",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
-        {
-          "title": "暂别赛场!Bin官宣休息",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356380&amp;topic_name=%E6%9A%82%E5%88%AB%E8%B5%9B%E5%9C%BA%21Bin%E5%AE%98%E5%AE%A3%E4%BC%91%E6%81%AF",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时17分 ~ 13时49分]"
-        },
         {
           "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
           "url": "https://wallstreetcn.com/articles/3777521",
@@ -31,6 +19,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时17分 ~ 13时49分]"
+        },
+        {
+          "title": "暂别赛场!Bin官宣休息",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356380&amp;topic_name=%E6%9A%82%E5%88%AB%E8%B5%9B%E5%9C%BA%21Bin%E5%AE%98%E5%AE%A3%E4%BC%91%E6%81%AF",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时17分 ~ 16时27分]"
         },
         {
           "title": "1.5万元机票退票仅退432元：携程称系航司规定，航司客服称费用需与平台确认",
@@ -131,9 +132,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "68元请香结账变952元 官方回应",
+          "url": "https://www.baidu.com/s?wd=68%E5%85%83%E8%AF%B7%E9%A6%99%E7%BB%93%E8%B4%A6%E5%8F%98952%E5%85%83+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
@@ -164,11 +176,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时27分]"
         },
         {
           "title": "儿童独自坐高铁攻略刷屏 官方辟谣",
@@ -178,8 +191,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时27分]"
         },
         {
           "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
@@ -187,11 +200,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时27分]"
         },
         {
           "title": "妈妈回应儿子681分选择中本贯通",
@@ -206,26 +220,71 @@
           "time_info": "[07时56分 ~ 10时30分]"
         },
         {
+          "title": "名人堂官宣为库里举办展览",
+          "url": "https://www.douyin.com/hot/2580689",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 16时27分]"
+        },
+        {
           "title": "如何评价 Coser 汤面桢子凌晨发布手写道歉信，向雅迪和《绝区零》及全体绳匠致歉？",
           "url": "https://www.zhihu.com/question/2063116821998331417",
           "source": "知乎",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
         {
-          "title": "名人堂官宣为库里举办展览",
-          "url": "https://www.douyin.com/hot/2580689",
-          "source": "抖音",
+          "title": "AL官宣Breathe加入",
+          "url": "https://search.bilibili.com/all?keyword=AL%E5%AE%98%E5%AE%A3Breathe%E5%8A%A0%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "AL官宣Breathe加入",
+          "url": "https://s.weibo.com/weibo?q=AL%E5%AE%98%E5%AE%A3Breathe%E5%8A%A0%E5%85%A5&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "多位中国公民在沙特被捕，中使馆回应",
+          "url": "https://news.ifeng.com/c/8uxzPsDiHKz",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "量化私募业绩遭遇集体回撤，“量化砸盘”争议再起",
+          "url": "https://wallstreetcn.com/articles/3777579",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "16时27分"
         },
         {
           "title": "耐克回应终止滔搏线上合作：正在开发由本地团队主导的全新零售概念",
@@ -234,9 +293,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "王者大禹首款新皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%A4%A7%E7%A6%B9%E9%A6%96%E6%AC%BE%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "乌军插旗行动翻车意味着什么",
+          "url": "https://www.toutiao.com/trending/7665194904271736361/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "耐克回应终止滔搏线上合作：正在开发由本地团队主导的全新零售概念",
@@ -245,7 +326,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -256,7 +337,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -267,7 +348,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -278,7 +359,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -289,7 +370,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -308,7 +389,7 @@
     },
     {
       "keyword_group": "明星 艺人 演员 歌手 偶像 爱豆 综艺 电影 电视剧 新剧 票房 定档 预告 红毯 路透 生图 粉丝 追星 演唱会 音乐节 路演 杀青 开机 阵容 回归 造型 同框 互动 嗑CP",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "复联5预告解析",
@@ -383,15 +464,37 @@
           "time_info": "[01时17分 ~ 07时56分]"
         },
         {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "恒生科技指数跌超3%，PCB、AI应用、明星科网等概念跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260722132845931800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "电视剧《这一秒过火》道歉",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E3%80%8B%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "汪苏泷许嵩徐良演唱会撞档",
@@ -412,11 +515,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时27分]"
+        },
+        {
+          "title": "张伟丽晒造型反差感拉满",
+          "url": "https://www.douyin.com/hot/2580317",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时27分]"
         },
         {
           "title": "张凌赫新剧又“黑红”了",
@@ -425,17 +540,6 @@
           "ranks": [
             13,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时49分]"
-        },
-        {
-          "title": "张伟丽晒造型反差感拉满",
-          "url": "https://www.douyin.com/hot/2580317",
-          "source": "抖音",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -487,6 +591,18 @@
           "time_info": "[10时29分 ~ 10时30分]"
         },
         {
+          "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
+          "url": "https://www.zhihu.com/question/2062878068759160084",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 16时27分]"
+        },
+        {
           "title": "王源南京演唱会可以4连坐",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%AF%E4%BB%A54%E8%BF%9E%E5%9D%90%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -515,9 +631,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "张伟丽晒出化妆造型「秒变甜妹，反差感拉满」，网友惊呼这是谁，化妆对人的加持有多离谱？",
+          "url": "https://www.zhihu.com/question/2063206445076542255",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "aespa明天回归",
+          "url": "https://s.weibo.com/weibo?q=aespa%E6%98%8E%E5%A4%A9%E5%9B%9E%E5%BD%92&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "京东入局美食综艺",
@@ -526,18 +664,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
-          "url": "https://www.zhihu.com/question/2062878068759160084",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -548,7 +675,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -573,12 +700,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "被鞠婧祎波点民国造型美到了",
+          "url": "https://www.douyin.com/hot/2580740",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "火影综艺飞舞吧忍者第二集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%BA%8C%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
     {
       "keyword_group": "上班 下班 职场 工作 打工人 摸鱼 同事 老板 加班 通勤 离职 跳槽 工位 请假 暑假工",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "3亿上班族迎利好",
@@ -612,11 +761,24 @@
           "source": "知乎",
           "ranks": [
             13,
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时27分]"
+        },
+        {
+          "title": "基层干部下班送了两个多月外卖",
+          "url": "https://www.baidu.com/s?wd=%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E4%B8%8B%E7%8F%AD%E9%80%81%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%A4%9A%E6%9C%88%E5%A4%96%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 16时27分]"
         },
         {
           "title": "员工嫌弃母亲被“最爱发钱老板”辞退",
@@ -642,15 +804,26 @@
           "time_info": "[06时55分 ~ 06时56分]"
         },
         {
-          "title": "基层干部下班送了两个多月外卖",
-          "url": "https://www.baidu.com/s?wd=%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E4%B8%8B%E7%8F%AD%E9%80%81%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%A4%9A%E6%9C%88%E5%A4%96%E5%8D%96",
+          "title": "厨师离职被要求交出配方才结工资",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%A8%E5%B8%88%E7%A6%BB%E8%81%8C%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%A4%E5%87%BA%E9%85%8D%E6%96%B9%E6%89%8D%E7%BB%93%E5%B7%A5%E8%B5%84",
           "source": "百度热搜",
           "ranks": [
-            24
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "16时27分"
+        },
+        {
+          "title": "机器狗已入职泰山：承担运垃圾工作",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E7%8B%97%E5%B7%B2%E5%85%A5%E8%81%8C%E6%B3%B0%E5%B1%B1%EF%BC%9A%E6%89%BF%E6%8B%85%E8%BF%90%E5%9E%83%E5%9C%BE%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "挪威国家石油公司预计，2026年计划内维护工作将导致日产量减少约3.5万桶油当量。",
@@ -659,7 +832,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         }
@@ -748,7 +921,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         }
@@ -804,7 +977,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -823,7 +996,7 @@
     },
     {
       "keyword_group": "单身 恋爱 相亲 脱单 暧昧 表白 约会 对象 另一半 男朋友 女朋友 伴侣 婚恋 催婚 异地恋 网恋 依赖 边界感 情绪价值 安全感",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "主体性强的人会觉得谈恋爱很无聊",
@@ -856,13 +1029,24 @@
           "time_info": "[01时17分 ~ 13时49分]"
         },
         {
+          "title": "年轻人为情绪价值买单",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E4%B9%B0%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "找对象要找客观意义上的好人",
           "url": "https://s.weibo.com/weibo?q=%E6%89%BE%E5%AF%B9%E8%B1%A1%E8%A6%81%E6%89%BE%E5%AE%A2%E8%A7%82%E6%84%8F%E4%B9%89%E4%B8%8A%E7%9A%84%E5%A5%BD%E4%BA%BA&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         }
@@ -879,11 +1063,12 @@
           "ranks": [
             8,
             10,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时17分 ~ 13时49分]"
+          "appearance_count": 12,
+          "time_info": "[01时17分 ~ 16时27分]"
         }
       ]
     }
