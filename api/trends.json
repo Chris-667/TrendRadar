@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-24T03:14:34.888869+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-07-24T05:03:55.086555+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "明星 艺人 演员 歌手 偶像 爱豆 综艺 电影 电视剧 新剧 票房 定档 预告 红毯 路透 生图 粉丝 追星 演唱会 音乐节 路演 杀青 开机 阵容 回归 造型 同框 互动 嗑CP",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "锐评张凌赫新剧",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%89%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
         },
         {
           "title": "2亿片酬砍九成,演员没戏唱",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
         },
         {
           "title": "周星驰路演现场给小影迷唱生日歌",
@@ -37,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
         },
         {
           "title": "谢霆锋抵达青岛备战演唱会",
@@ -48,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
         },
         {
           "title": "王楚然张凌赫新剧好看吗",
@@ -57,11 +58,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
         },
         {
           "title": "G2官推发文祝福Bin早日回归",
@@ -71,8 +73,20 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
+        },
+        {
+          "title": "金铲铲海克斯典籍阵容攻略",
+          "url": "https://www.douyin.com/hot/2582267",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "time_info": "[03时14分 ~ 05时03分]"
         },
         {
           "title": "如何评价索尼 FX5 (ILME-FX5) 电影摄影机？",
@@ -81,20 +95,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
         {
-          "title": "金铲铲海克斯典籍阵容攻略",
-          "url": "https://www.douyin.com/hot/2582267",
+          "title": "电影想你了高凡留下最痛的纪念品",
+          "url": "https://www.douyin.com/hot/2582069",
           "source": "抖音",
           "ranks": [
-            27
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "05时03分"
         },
         {
           "title": "陈妍希姐姐追星张凌赫",
@@ -103,7 +117,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         }
@@ -118,11 +132,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33643922",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
         },
         {
           "title": "多地发钱奖励结婚",
@@ -130,11 +145,36 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
+        },
+        {
+          "title": "足协辟谣米利西奇辞职",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%B3%E5%8D%8F%E8%BE%9F%E8%B0%A3%E7%B1%B3%E5%88%A9%E8%A5%BF%E5%A5%87%E8%BE%9E%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
+        },
+        {
+          "title": "38岁清华毕业生回应被北大医学部录取：挺激动的，太不容易了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644389",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
         },
         {
           "title": "别让贫困生喝咖啡争议撕裂舆论",
@@ -149,48 +189,28 @@
           "time_info": "[01时21分 ~ 03时14分]"
         },
         {
-          "title": "足协辟谣米利西奇辞职",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%B3%E5%8D%8F%E8%BE%9F%E8%B0%A3%E7%B1%B3%E5%88%A9%E8%A5%BF%E5%A5%87%E8%BE%9E%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
-        },
-        {
-          "title": "38岁清华毕业生回应被北大医学部录取：挺激动的，太不容易了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644389",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
-        },
-        {
           "title": "王虹回应获菲尔兹奖",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%99%B9%E5%9B%9E%E5%BA%94%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 05时03分]"
         },
         {
           "title": "广西一公园大树倾倒致3死3伤 官方回应",
           "url": "https://www.toutiao.com/trending/7665687980475944491/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 05时03分]"
         },
         {
           "title": "邓煜回应获菲尔兹奖",
@@ -216,7 +236,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -225,11 +245,12 @@
           "url": "https://www.cls.cn/detail/2435521",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
         }
       ]
     },
@@ -245,8 +266,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上班 下班 职场 工作 打工人 摸鱼 同事 老板 加班 通勤 离职 跳槽 工位 请假 暑假工",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "职场开黄腔被开除网友一片该声",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%8C%E5%9C%BA%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E5%BC%80%E9%99%A4%E7%BD%91%E5%8F%8B%E4%B8%80%E7%89%87%E8%AF%A5%E5%A3%B0%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         }
       ]
     },
