@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-23T10:34:46.710281+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-07-23T13:53:17.317727+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "明星 艺人 演员 歌手 偶像 爱豆 综艺 电影 电视剧 新剧 票房 定档 预告 红毯 路透 生图 粉丝 追星 演唱会 音乐节 路演 杀青 开机 阵容 回归 造型 同框 互动 嗑CP",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "王楚然张凌赫新剧好看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%89%A7%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24,
+            21,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 13时53分]"
+        },
         {
           "title": "Crisp回归首个MVP",
           "url": "https://search.bilibili.com/all?keyword=Crisp%E5%9B%9E%E5%BD%92%E9%A6%96%E4%B8%AAMVP",
@@ -16,20 +31,6 @@
             13,
             14,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 10时34分]"
-        },
-        {
-          "title": "王楚然张凌赫新剧好看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%89%A7%E5%A5%BD%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            24,
-            21,
-            13
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -104,11 +105,12 @@
           "url": "https://www.zhihu.com/question/326219584",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时53分]"
         },
         {
           "title": "崔晋为妈妈上综艺打call",
@@ -136,6 +138,18 @@
           "time_info": "[05时06分 ~ 07时02分]"
         },
         {
+          "title": "澎湃新闻12周年｜文化演艺界的祝福已收到，这阵容真藏不住",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33636101",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时53分]"
+        },
+        {
           "title": "火影综艺飞舞吧忍者第二集",
           "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%BA%8C%E9%9B%86",
           "source": "bilibili 热搜",
@@ -159,13 +173,68 @@
           "time_info": "[01时18分 ~ 07时02分]"
         },
         {
+          "title": "G2官推发文祝福Bin早日回归",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356426&amp;topic_name=G2%E5%AE%98%E6%8E%A8%E5%8F%91%E6%96%87%E7%A5%9D%E7%A6%8FBin%E6%97%A9%E6%97%A5%E5%9B%9E%E5%BD%92",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "复仇者联盟5预告解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5%E9%A2%84%E5%91%8A%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "陕西宝鸡大雨一电影院内水流如瀑布",
+          "url": "https://www.toutiao.com/trending/7665559187736251945/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "李宏毅孔雪儿新剧第一集就圆房",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%8F%E6%AF%85%E5%AD%94%E9%9B%AA%E5%84%BF%E6%96%B0%E5%89%A7%E7%AC%AC%E4%B8%80%E9%9B%86%E5%B0%B1%E5%9C%86%E6%88%BF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
           "title": "王鹤棣谢景行杀青照",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B0%A2%E6%99%AF%E8%A1%8C%E6%9D%80%E9%9D%92%E7%85%A7&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -187,7 +256,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -209,18 +278,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "澎湃新闻12周年｜文化演艺界的祝福已收到，这阵容真藏不住",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33636101",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
@@ -228,7 +286,7 @@
     },
     {
       "keyword_group": "吃瓜 八卦 爆料 恋情 官宣 绯闻 分手 复合 结婚 离婚 前任 前妻 前夫 辟谣 回应 道歉 热议 反转 翻车 争议 退票 害羞",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "足协辟谣米利西奇辞职",
@@ -257,6 +315,35 @@
           "time_info": "[01时18分 ~ 10时34分]"
         },
         {
+          "title": "暂别赛场!Bin官宣休息",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356380&amp;topic_name=%E6%9A%82%E5%88%AB%E8%B5%9B%E5%9C%BA%21Bin%E5%AE%98%E5%AE%A3%E4%BC%91%E6%81%AF",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 13时53分]"
+        },
+        {
+          "title": "公孙离寒羽凝歌皮肤爆料",
+          "url": "https://www.douyin.com/hot/2581249",
+          "source": "抖音",
+          "ranks": [
+            20,
+            26,
+            24,
+            22,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 13时53分]"
+        },
+        {
           "title": "东山精密回应光模块被盗窃",
           "url": "https://www.douyin.com/hot/2581443",
           "source": "抖音",
@@ -282,33 +369,6 @@
           "time_info": "[01时18分 ~ 10时34分]"
         },
         {
-          "title": "暂别赛场!Bin官宣休息",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356380&amp;topic_name=%E6%9A%82%E5%88%AB%E8%B5%9B%E5%9C%BA%21Bin%E5%AE%98%E5%AE%A3%E4%BC%91%E6%81%AF",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 10时34分]"
-        },
-        {
-          "title": "公孙离寒羽凝歌皮肤爆料",
-          "url": "https://www.douyin.com/hot/2581249",
-          "source": "抖音",
-          "ranks": [
-            20,
-            26,
-            24,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 10时34分]"
-        },
-        {
           "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
           "url": "https://www.zhihu.com/question/2063228417642967287",
           "source": "知乎",
@@ -318,6 +378,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 07时02分]"
+        },
+        {
+          "title": "公孙离寒羽凝歌皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AD%99%E7%A6%BB%E5%AF%92%E7%BE%BD%E5%87%9D%E6%AD%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            29,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 13时53分]"
+        },
+        {
+          "title": "1.5万元机票退票仅退432元续：平台以小字标注退改签规则，律师称涉嫌侵害知情权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635614",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 13时53分]"
         },
         {
           "title": "广东一景区泳池惊现游蛇 景区回应",
@@ -332,40 +418,38 @@
           "time_info": "[03时16分 ~ 07时02分]"
         },
         {
-          "title": "公孙离寒羽凝歌皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AD%99%E7%A6%BB%E5%AF%92%E7%BE%BD%E5%87%9D%E6%AD%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时02分]"
-        },
-        {
-          "title": "1.5万元机票退票仅退432元续：平台以小字标注退改签规则，律师称涉嫌侵害知情权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635614",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 10时34分]"
-        },
-        {
           "title": "携程黑钻会员吐槽 1.5 万元机票仅退 432 元，称没想到扣那么狠，这种退票政策合理吗？",
           "url": "https://www.zhihu.com/question/2062858376510451826",
           "source": "知乎",
           "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时53分]"
+        },
+        {
+          "title": "游客阻止高山兀鹫吃马尸引争议，这种行为反映了人们对生态的哪些误解？",
+          "url": "https://www.zhihu.com/question/2062701004857119643",
+          "source": "知乎",
+          "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "留几手向葛夕道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E5%90%91%E8%91%9B%E5%A4%95%E9%81%93%E6%AD%89%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
         },
         {
           "title": "求职者因过往民事诉讼被大厂拒聘，背调公司称离婚官司也能查，这属于过度背调吗？背调公司权限有多大？",
@@ -374,7 +458,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -396,7 +480,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -407,7 +491,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
@@ -415,7 +499,7 @@
     },
     {
       "keyword_group": "上班 下班 职场 工作 打工人 摸鱼 同事 老板 加班 通勤 离职 跳槽 工位 请假 暑假工",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "习近平对基础教育工作作出重要指示",
@@ -424,9 +508,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时53分]"
         },
         {
           "title": "日本鼓励男性穿短裤上班引女职员不满",
@@ -455,6 +539,18 @@
           "time_info": "[01时18分 ~ 07时02分]"
         },
         {
+          "title": "铁路同事站台敬礼送别党鑫蕊",
+          "url": "https://search.bilibili.com/all?keyword=%E9%93%81%E8%B7%AF%E5%90%8C%E4%BA%8B%E7%AB%99%E5%8F%B0%E6%95%AC%E7%A4%BC%E9%80%81%E5%88%AB%E5%85%9A%E9%91%AB%E8%95%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时53分]"
+        },
+        {
           "title": "怕下雨只拿出了几个西瓜的老板",
           "url": "https://s.weibo.com/weibo?q=%E6%80%95%E4%B8%8B%E9%9B%A8%E5%8F%AA%E6%8B%BF%E5%87%BA%E4%BA%86%E5%87%A0%E4%B8%AA%E8%A5%BF%E7%93%9C%E7%9A%84%E8%80%81%E6%9D%BF&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -477,15 +573,15 @@
           "time_info": "[07时01分 ~ 07时02分]"
         },
         {
-          "title": "铁路同事站台敬礼送别党鑫蕊",
-          "url": "https://search.bilibili.com/all?keyword=%E9%93%81%E8%B7%AF%E5%90%8C%E4%BA%8B%E7%AB%99%E5%8F%B0%E6%95%AC%E7%A4%BC%E9%80%81%E5%88%AB%E5%85%9A%E9%91%AB%E8%95%8A",
-          "source": "bilibili 热搜",
+          "title": "“太空光伏工作组”将成立 拟构建太空光伏领域标准体系框架",
+          "url": "https://flash.jin10.com/detail/20260723133522259800",
+          "source": "金十数据",
           "ranks": [
-            8
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "13时53分"
         },
         {
           "title": "男子上班路上乘车偶遇藏马熊追逐",
@@ -494,7 +590,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
@@ -600,7 +696,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
@@ -620,8 +716,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 10时34分]"
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 13时53分]"
         },
         {
           "title": "王毅应约会见菲律宾外长：每当要对话，菲国内就有人蓄意制造事端",
@@ -640,17 +736,18 @@
           "url": "https://www.zhihu.com/question/2062640157015249755",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时53分]"
         }
       ]
     },
     {
       "keyword_group": "音乐 新歌 歌曲 歌单 演唱会 音乐节 乐队 专辑 单曲 巡演 舞台 耳机 Kpop 说唱 民谣",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "音乐可以瞬间把人拉到一个时间里",
@@ -662,13 +759,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 05时07分]"
+        },
+        {
+          "title": "12星座选秀公演舞台上新",
+          "url": "https://www.douyin.com/hot/2582006",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
         }
       ]
     },
     {
       "keyword_group": "一个人 小时候 童年 怀旧 夏天 暑假 周末 滤镜 拍照 故事感 生活方式 月租 租房 独居 合租 城市生活",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "姑姑暑假接管4个娃花钱如流水",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%9A%91%E5%81%87%E6%8E%A5%E7%AE%A14%E4%B8%AA%E5%A8%83%E8%8A%B1%E9%92%B1%E5%A6%82%E6%B5%81%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
         {
           "title": "干什么都一个人会不会太厉害了",
           "url": "https://www.douyin.com/hot/2579684",
