@@ -1,11 +1,509 @@
 {
-  "generated_at": "2026-07-23T19:09:13.232422+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-07-23T21:55:18.366248+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "明星 艺人 演员 歌手 偶像 爱豆 综艺 电影 电视剧 新剧 票房 定档 预告 红毯 路透 生图 粉丝 追星 演唱会 音乐节 路演 杀青 开机 阵容 回归 造型 同框 互动 嗑CP",
+      "match_count": 42,
+      "titles": [
+        {
+          "title": "王楚然张凌赫新剧好看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%89%A7%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24,
+            21,
+            13,
+            16,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时18分 ~ 21时55分]"
+        },
+        {
+          "title": "G2官推发文祝福Bin早日回归",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356426&amp;topic_name=G2%E5%AE%98%E6%8E%A8%E5%8F%91%E6%96%87%E7%A5%9D%E7%A6%8FBin%E6%97%A9%E6%97%A5%E5%9B%9E%E5%BD%92",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            14,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时52分 ~ 21时55分]"
+        },
+        {
+          "title": "Crisp回归首个MVP",
+          "url": "https://search.bilibili.com/all?keyword=Crisp%E5%9B%9E%E5%BD%92%E9%A6%96%E4%B8%AAMVP",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时34分]"
+        },
+        {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时06分 ~ 10时34分]"
+        },
+        {
+          "title": "张伟丽晒出化妆造型「秒变甜妹，反差感拉满」，网友惊呼这是谁，化妆对人的加持有多离谱？",
+          "url": "https://www.zhihu.com/question/2063206445076542255",
+          "source": "知乎",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 07时02分]"
+        },
+        {
+          "title": "如何评价日本电影《花束般的恋爱》？",
+          "url": "https://www.zhihu.com/question/461455834",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时16分 ~ 10时34分]"
+        },
+        {
+          "title": "美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归",
+          "url": "https://wallstreetcn.com/articles/3777696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时06分 ~ 19时09分]"
+        },
+        {
+          "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
+          "url": "https://www.zhihu.com/question/2062878068759160084",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 07时02分]"
+        },
+        {
+          "title": "张伟丽晒造型反差感拉满",
+          "url": "https://www.douyin.com/hot/2580317",
+          "source": "抖音",
+          "ranks": [
+            25,
+            23,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 07时02分]"
+        },
+        {
+          "title": "泰晶科技在互动平台表示，公司高基频产品已对部分光模块、服务器、数据中心用户批量供应，部分用户在持续导入中。",
+          "url": "https://flash.jin10.com/detail/20260723162226041800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "为什么胡歌和刘诗诗几乎不参加综艺节目？",
+          "url": "https://www.zhihu.com/question/326219584",
+          "source": "知乎",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时53分]"
+        },
+        {
+          "title": "崔晋为妈妈上综艺打call",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%99%8B%E4%B8%BA%E5%A6%88%E5%A6%88%E4%B8%8A%E7%BB%BC%E8%89%BA%E6%89%93call%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            29,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时02分]"
+        },
+        {
+          "title": "2亿片酬砍九成,演员没戏唱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356446&amp;topic_name=2%E4%BA%BF%E7%89%87%E9%85%AC%E7%A0%8D%E4%B9%9D%E6%88%90%2C%E6%BC%94%E5%91%98%E6%B2%A1%E6%88%8F%E5%94%B1",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时55分]"
+        },
+        {
+          "title": "澎湃新闻12周年｜文化演艺界的祝福已收到，这阵容真藏不住",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33636101",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时27分]"
+        },
+        {
+          "title": "老一辈女演员吻戏没轻没重的",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%80%E8%BE%88%E5%A5%B3%E6%BC%94%E5%91%98%E5%90%BB%E6%88%8F%E6%B2%A1%E8%BD%BB%E6%B2%A1%E9%87%8D%E7%9A%84%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时55分]"
+        },
+        {
+          "title": "电影暑期档已经不存在了",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 19时09分]"
+        },
+        {
+          "title": "火影综艺飞舞吧忍者第二集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%BA%8C%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 07时02分]"
+        },
+        {
+          "title": "JENNIE预告新歌MV",
+          "url": "https://www.douyin.com/hot/2581058",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 07时02分]"
+        },
+        {
+          "title": "王俊凯演唱会战报",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%98%E6%8A%A5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "锐评张凌赫新剧",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%89%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "周星驰路演现场给小影迷唱生日歌",
+          "url": "https://www.douyin.com/hot/2582158",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "电影八仙",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "复仇者联盟5预告解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5%E9%A2%84%E5%91%8A%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "王俊凯演唱会百万赞视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E7%99%BE%E4%B8%87%E8%B5%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "谢霆锋抵达青岛备战演唱会",
+          "url": "https://www.douyin.com/hot/2582607",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "华晨宇首位全球前10中国内地歌手",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%A6%96%E4%BD%8D%E5%85%A8%E7%90%83%E5%89%8D10%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E6%AD%8C%E6%89%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "陕西宝鸡大雨一电影院内水流如瀑布",
+          "url": "https://www.toutiao.com/trending/7665559187736251945/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "李宏毅孔雪儿新剧第一集就圆房",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%8F%E6%AF%85%E5%AD%94%E9%9B%AA%E5%84%BF%E6%96%B0%E5%89%A7%E7%AC%AC%E4%B8%80%E9%9B%86%E5%B0%B1%E5%9C%86%E6%88%BF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "王鹤棣谢景行杀青照",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B0%A2%E6%99%AF%E8%A1%8C%E6%9D%80%E9%9D%92%E7%85%A7&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "陈妍希姐姐追星张凌赫",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%A7%90%E5%A7%90%E8%BF%BD%E6%98%9F%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "曝演员片酬从2亿降到最高2500万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%BC%94%E5%91%98%E7%89%87%E9%85%AC%E4%BB%8E2%E4%BA%BF%E9%99%8D%E5%88%B0%E6%9C%80%E9%AB%982500%E4%B8%87%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "周星驰赵心童梦幻同框",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%A2%A6%E5%B9%BB%E5%90%8C%E6%A1%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3138386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "鹿晗给粉丝评论",
+          "url": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E7%BB%99%E7%B2%89%E4%B8%9D%E8%AF%84%E8%AE%BA&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "路透调查：预计镍市场在2026年将出现110,056吨的过剩，2027年过剩量为57,000吨。",
+          "url": "https://flash.jin10.com/detail/20260723211724576800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "路透调查：伦敦金属交易所（LME）现货锡价格预计在2026年平均为50,700美元/吨，2027年为49,813美元/吨，而2025年为34,096美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260723211708228800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "路透调查：伦敦金属交易所（LME）现货镍预计在2026年平均为每吨17,445美元，2027年为每吨17,375美元，而2025年为每吨15,154美元。",
+          "url": "https://flash.jin10.com/detail/20260723211659001800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "路透调查：伦敦金属交易所（LME）现货铅预计在2026年平均为每吨1,954美元，2027年为每吨1,975美元，而2025年为每吨1,962美元。",
+          "url": "https://flash.jin10.com/detail/20260723211651905800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "路透调查：伦敦金属交易所（LME）现货锌价格预计在2026年平均为每吨3,385美元，2027年为每吨3,138美元，而2025年为每吨2,867美元。",
+          "url": "https://flash.jin10.com/detail/20260723211640580800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "路透调查：伦敦金属交易所（LME）现货铝的平均价格预计在2026年为每吨3,307美元，2027年为每吨3,075美元，而2025年为每吨2,630美元。",
+          "url": "https://flash.jin10.com/detail/20260723211552414800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "路透调查：伦敦金属交易所（LME）现货铜预计在2026年平均为每公吨13,169美元，2027年为每吨13,059美元，而2025年为每吨9,939美元。",
+          "url": "https://flash.jin10.com/detail/20260723211538481800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "吃瓜 八卦 爆料 恋情 官宣 绯闻 分手 复合 结婚 离婚 前任 前妻 前夫 辟谣 回应 道歉 热议 反转 翻车 争议 退票 害羞",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "足协辟谣米利西奇辞职",
@@ -17,11 +515,12 @@
             5,
             10,
             19,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 19时09分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 21时55分]"
         },
         {
           "title": "公孙离寒羽凝歌皮肤爆料",
@@ -116,17 +615,6 @@
           "time_info": "[19时08分 ~ 19时09分]"
         },
         {
-          "title": "厦大回应644分考生误报分校",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E5%9B%9E%E5%BA%94644%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E6%8A%A5%E5%88%86%E6%A0%A1%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
           "title": "小红书回应IPO传闻：相关信息均不属实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634641",
           "source": "澎湃新闻",
@@ -140,6 +628,40 @@
           "time_info": "[01时18分 ~ 10时34分]"
         },
         {
+          "title": "多地发钱奖励结婚",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%91%E9%92%B1%E5%A5%96%E5%8A%B1%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "别让贫困生喝咖啡争议撕裂舆论",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%96%9D%E5%92%96%E5%95%A1%E4%BA%89%E8%AE%AE%E6%92%95%E8%A3%82%E8%88%86%E8%AE%BA%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "厦大回应644分考生误报分校",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E5%9B%9E%E5%BA%94644%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E6%8A%A5%E5%88%86%E6%A0%A1%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时55分]"
+        },
+        {
           "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
           "url": "https://www.zhihu.com/question/2063228417642967287",
           "source": "知乎",
@@ -149,6 +671,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 07时02分]"
+        },
+        {
+          "title": "开到荼蘼官宣节奏",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%88%B0%E8%8D%BC%E8%98%BC%E5%AE%98%E5%AE%A3%E8%8A%82%E5%A5%8F&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "1.5万元机票退票仅退432元续：平台以小字标注退改签规则，律师称涉嫌侵害知情权",
@@ -186,6 +719,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时16分 ~ 07时02分]"
+        },
+        {
+          "title": "论文疑遭蒋方舟抄袭，台湾原作者回应：学术共同体必须建立在诚信之上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643922",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时55分]"
+        },
+        {
+          "title": "比韩剧还刺激！SK掌门人“天价离婚案”明日宣判 狂飙的股价会如何算？",
+          "url": "https://www.cls.cn/detail/2434929",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时55分]"
         },
         {
           "title": "携程黑钻会员吐槽 1.5 万元机票仅退 432 元，称没想到扣那么狠，这种退票政策合理吗？",
@@ -235,26 +792,26 @@
           "time_info": "[19时08分 ~ 19时09分]"
         },
         {
-          "title": "比韩剧还刺激！SK掌门人“天价离婚案”明日宣判 狂飙的股价会如何算？",
-          "url": "https://www.cls.cn/detail/2434929",
-          "source": "财联社热门",
+          "title": "媒体：别让贫困生喝咖啡争议撕裂舆论",
+          "url": "https://www.toutiao.com/trending/7664836043149426694/",
+          "source": "今日头条",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
-          "title": "论文疑遭蒋方舟抄袭，台湾原作者回应：学术共同体必须建立在诚信之上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643922",
-          "source": "澎湃新闻",
+          "title": "机场回应373名乘客被困机舱10小时",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%9C%BA%E5%9B%9E%E5%BA%94373%E5%90%8D%E4%B9%98%E5%AE%A2%E8%A2%AB%E5%9B%B0%E6%9C%BA%E8%88%B110%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
           "ranks": [
-            12
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "复盘邹市明冉莹颖争议事件",
@@ -380,371 +937,8 @@
       ]
     },
     {
-      "keyword_group": "明星 艺人 演员 歌手 偶像 爱豆 综艺 电影 电视剧 新剧 票房 定档 预告 红毯 路透 生图 粉丝 追星 演唱会 音乐节 路演 杀青 开机 阵容 回归 造型 同框 互动 嗑CP",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "王楚然张凌赫新剧好看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%96%B0%E5%89%A7%E5%A5%BD%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            24,
-            21,
-            13,
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时18分 ~ 19时09分]"
-        },
-        {
-          "title": "Crisp回归首个MVP",
-          "url": "https://search.bilibili.com/all?keyword=Crisp%E5%9B%9E%E5%BD%92%E9%A6%96%E4%B8%AAMVP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 10时34分]"
-        },
-        {
-          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
-          "url": "https://www.zhihu.com/question/2062918586486583714",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时06分 ~ 10时34分]"
-        },
-        {
-          "title": "张伟丽晒出化妆造型「秒变甜妹，反差感拉满」，网友惊呼这是谁，化妆对人的加持有多离谱？",
-          "url": "https://www.zhihu.com/question/2063206445076542255",
-          "source": "知乎",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时02分]"
-        },
-        {
-          "title": "如何评价日本电影《花束般的恋爱》？",
-          "url": "https://www.zhihu.com/question/461455834",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时16分 ~ 10时34分]"
-        },
-        {
-          "title": "美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归",
-          "url": "https://wallstreetcn.com/articles/3777696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时06分 ~ 19时09分]"
-        },
-        {
-          "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
-          "url": "https://www.zhihu.com/question/2062878068759160084",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时02分]"
-        },
-        {
-          "title": "张伟丽晒造型反差感拉满",
-          "url": "https://www.douyin.com/hot/2580317",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时02分]"
-        },
-        {
-          "title": "泰晶科技在互动平台表示，公司高基频产品已对部分光模块、服务器、数据中心用户批量供应，部分用户在持续导入中。",
-          "url": "https://flash.jin10.com/detail/20260723162226041800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "为什么胡歌和刘诗诗几乎不参加综艺节目？",
-          "url": "https://www.zhihu.com/question/326219584",
-          "source": "知乎",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时53分]"
-        },
-        {
-          "title": "G2官推发文祝福Bin早日回归",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356426&amp;topic_name=G2%E5%AE%98%E6%8E%A8%E5%8F%91%E6%96%87%E7%A5%9D%E7%A6%8FBin%E6%97%A9%E6%97%A5%E5%9B%9E%E5%BD%92",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 19时09分]"
-        },
-        {
-          "title": "崔晋为妈妈上综艺打call",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%99%8B%E4%B8%BA%E5%A6%88%E5%A6%88%E4%B8%8A%E7%BB%BC%E8%89%BA%E6%89%93call%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时02分]"
-        },
-        {
-          "title": "澎湃新闻12周年｜文化演艺界的祝福已收到，这阵容真藏不住",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33636101",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时34分 ~ 16时27分]"
-        },
-        {
-          "title": "电影暑期档已经不存在了",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%BD%B1%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 19时09分]"
-        },
-        {
-          "title": "火影综艺飞舞吧忍者第二集",
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%BA%8C%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 07时02分]"
-        },
-        {
-          "title": "JENNIE预告新歌MV",
-          "url": "https://www.douyin.com/hot/2581058",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 07时02分]"
-        },
-        {
-          "title": "2亿片酬砍九成,演员没戏唱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356446&amp;topic_name=2%E4%BA%BF%E7%89%87%E9%85%AC%E7%A0%8D%E4%B9%9D%E6%88%90%2C%E6%BC%94%E5%91%98%E6%B2%A1%E6%88%8F%E5%94%B1",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "王俊凯演唱会战报",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%98%E6%8A%A5%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "电影八仙",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "复仇者联盟5预告解析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5%E9%A2%84%E5%91%8A%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "老一辈女演员吻戏没轻没重的",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%80%E8%BE%88%E5%A5%B3%E6%BC%94%E5%91%98%E5%90%BB%E6%88%8F%E6%B2%A1%E8%BD%BB%E6%B2%A1%E9%87%8D%E7%9A%84%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "陕西宝鸡大雨一电影院内水流如瀑布",
-          "url": "https://www.toutiao.com/trending/7665559187736251945/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "李宏毅孔雪儿新剧第一集就圆房",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%8F%E6%AF%85%E5%AD%94%E9%9B%AA%E5%84%BF%E6%96%B0%E5%89%A7%E7%AC%AC%E4%B8%80%E9%9B%86%E5%B0%B1%E5%9C%86%E6%88%BF%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "王鹤棣谢景行杀青照",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%B0%A2%E6%99%AF%E8%A1%8C%E6%9D%80%E9%9D%92%E7%85%A7&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "陈妍希姐姐追星张凌赫",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%A7%90%E5%A7%90%E8%BF%BD%E6%98%9F%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "曝演员片酬从2亿降到最高2500万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%BC%94%E5%91%98%E7%89%87%E9%85%AC%E4%BB%8E2%E4%BA%BF%E9%99%8D%E5%88%B0%E6%9C%80%E9%AB%982500%E4%B8%87%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "周星驰赵心童梦幻同框",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%A2%A6%E5%B9%BB%E5%90%8C%E6%A1%86",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "标普500指数初步收跌大约0.1%，电信板块跌1.1%，科技板块大致持平，能源板块涨1.1%，原材料板块涨1.3%，公用事业板块涨2.2%。 纳斯达克100指数初步收跌0.4%，成分股中，SpaceX初步收跌6.6%，Workday跌6.2%，汤森路透跌3.6%，英特尔跌2.5%，Meta、微软至少跌2%，英伟达涨2.1%，博通涨2.6%，CoreWeave涨4.1%，核电股CEG涨4.8%。 半导体指数涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3138386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "鹿晗给粉丝评论",
-          "url": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E7%BB%99%E7%B2%89%E4%B8%9D%E8%AF%84%E8%AE%BA&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上班 下班 职场 工作 打工人 摸鱼 同事 老板 加班 通勤 离职 跳槽 工位 请假 暑假工",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "习近平对基础教育工作作出重要指示",
@@ -839,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "河南矿山「最爱发钱」老板为员工子女提供暑期专项实习，每月津贴四千元还包吃住，如何看待这一福利？",
+          "url": "https://www.zhihu.com/question/2062587346227406655",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         },
         {
           "title": "车修好半年没人提 维修店老板寻车主",
@@ -943,11 +1148,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 19时09分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 21时55分]"
         },
         {
           "title": "月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象？",
@@ -1081,6 +1287,57 @@
       ]
     },
     {
+      "keyword_group": "一个人 小时候 童年 怀旧 夏天 暑假 周末 滤镜 拍照 故事感 生活方式 月租 租房 独居 合租 城市生活",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "姑姑暑假接管4个娃花钱如流水",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%9A%91%E5%81%87%E6%8E%A5%E7%AE%A14%E4%B8%AA%E5%A8%83%E8%8A%B1%E9%92%B1%E5%A6%82%E6%B5%81%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "干什么都一个人会不会太厉害了",
+          "url": "https://www.douyin.com/hot/2579684",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时16分]"
+        },
+        {
+          "title": "和何与一起进入世纪夏天",
+          "url": "https://www.douyin.com/hot/2582629",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
+          "title": "没有空调的夏天古人靠什么续命",
+          "url": "https://www.toutiao.com/trending/7664607487023005732/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "音乐 新歌 歌曲 歌单 演唱会 音乐节 乐队 专辑 单曲 巡演 舞台 耳机 Kpop 说唱 民谣",
       "match_count": 3,
       "titles": [
@@ -1118,46 +1375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时08分 ~ 19时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "一个人 小时候 童年 怀旧 夏天 暑假 周末 滤镜 拍照 故事感 生活方式 月租 租房 独居 合租 城市生活",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "姑姑暑假接管4个娃花钱如流水",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%91%E5%A7%91%E6%9A%91%E5%81%87%E6%8E%A5%E7%AE%A14%E4%B8%AA%E5%A8%83%E8%8A%B1%E9%92%B1%E5%A6%82%E6%B5%81%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "干什么都一个人会不会太厉害了",
-          "url": "https://www.douyin.com/hot/2579684",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时16分]"
-        },
-        {
-          "title": "没有空调的夏天古人靠什么续命",
-          "url": "https://www.toutiao.com/trending/7664607487023005732/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         }
       ]
     },
