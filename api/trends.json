@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T01:30:00.162777+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-25T03:26:08.393129+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "明星 艺人 演员 歌手 偶像 爱豆 综艺 电影 电视剧 新剧 票房 定档 预告 红毯 路透 生图 粉丝 追星 演唱会 音乐节 路演 杀青 开机 阵容 回归 造型 同框 互动 嗑CP",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "言出必行!Shy哥坦言回归原因",
@@ -15,41 +15,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
           "url": "https://www.zhihu.com/question/2063904243388512133",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "歌手排名",
           "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "长征三号乙火箭发射与闪电同框",
           "url": "https://www.douyin.com/hot/2583043",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "明星一地鸡毛的婚姻，为什么要通过综艺展示给大众？",
@@ -59,41 +62,102 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
-        },
-        {
-          "title": "76人阵容",
-          "url": "https://s.weibo.com/weibo?q=%2376%E4%BA%BA%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "林依轮复刻白鹿周生如故红衣造型",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%E5%A4%8D%E5%88%BB%E7%99%BD%E9%B9%BF%E5%91%A8%E7%94%9F%E5%A6%82%E6%95%85%E7%BA%A2%E8%A1%A3%E9%80%A0%E5%9E%8B%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
+        },
+        {
+          "title": "76人阵容",
+          "url": "https://s.weibo.com/weibo?q=%2376%E4%BA%BA%E9%98%B5%E5%AE%B9%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "歌手冲刺赛第一场舞台",
           "url": "https://www.douyin.com/hot/2584147",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
+        },
+        {
+          "title": "《歌手》第10期排名：窦靖童第一",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC10%E6%9C%9F%E6%8E%92%E5%90%8D%EF%BC%9A%E7%AA%A6%E9%9D%96%E7%AB%A5%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
+        },
+        {
+          "title": "邓紫棋天津演唱会",
+          "url": "https://www.douyin.com/hot/2584035",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
+        },
+        {
+          "title": "电影痴迷观后感",
+          "url": "https://www.douyin.com/hot/2583157",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
+        },
+        {
+          "title": "耳帝评价歌手",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D%E8%AF%84%E4%BB%B7%E6%AD%8C%E6%89%8B&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
+        },
+        {
+          "title": "2亿片酬砍九成,演员没戏唱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356446&amp;topic_name=2%E4%BA%BF%E7%89%87%E9%85%AC%E7%A0%8D%E4%B9%9D%E6%88%90%2C%E6%BC%94%E5%91%98%E6%B2%A1%E6%88%8F%E5%94%B1",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "薛之谦演唱会",
@@ -107,98 +171,57 @@
           "time_info": "[01时29分 ~ 01时30分]"
         },
         {
-          "title": "邓紫棋天津演唱会",
-          "url": "https://www.douyin.com/hot/2584035",
+          "title": "何昶希何衍朝香港演唱会",
+          "url": "https://www.douyin.com/hot/2584022",
           "source": "抖音",
           "ranks": [
-            18
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
-        },
-        {
-          "title": "《歌手》第10期排名：窦靖童第一",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC10%E6%9C%9F%E6%8E%92%E5%90%8D%EF%BC%9A%E7%AA%A6%E9%9D%96%E7%AB%A5%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
-        },
-        {
-          "title": "电影痴迷观后感",
-          "url": "https://www.douyin.com/hot/2583157",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
-        },
-        {
-          "title": "耳帝评价歌手",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D%E8%AF%84%E4%BB%B7%E6%AD%8C%E6%89%8B&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
-        },
-        {
-          "title": "2亿片酬砍九成,演员没戏唱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356446&amp;topic_name=2%E4%BA%BF%E7%89%87%E9%85%AC%E7%A0%8D%E4%B9%9D%E6%88%90%2C%E6%BC%94%E5%91%98%E6%B2%A1%E6%88%8F%E5%94%B1",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "time_info": "[03时25分 ~ 03时26分]"
         }
       ]
     },
     {
       "keyword_group": "吃瓜 八卦 爆料 恋情 官宣 绯闻 分手 复合 结婚 离婚 前任 前妻 前夫 辟谣 回应 道歉 热议 反转 翻车 争议 退票 害羞",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "宁德时代回应中东订单变化：不会参与储能价格内卷，看好下半年及明年需求|直击业绩会",
           "url": "https://www.cls.cn/detail/2436798",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "周星驰回应观众才是最牛的，强调纪录由观众创造的，而冯导却抛出观众垃圾论，你认为那种说法更对？",
           "url": "https://www.zhihu.com/question/2061388641746806149",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
           "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "父亲为初恋想离婚要分女儿630万房款",
@@ -208,8 +231,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "女生没结婚席上问亲戚谁笑话我妈了",
@@ -221,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 01时30分]"
+        },
+        {
+          "title": "中南大学回应一硕士论文13页雷同",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%80%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%8713%E9%A1%B5%E9%9B%B7%E5%90%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
         },
         {
           "title": "The Shy回应复出原因",
@@ -247,19 +281,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "王虹获奖感言「很幸运在合适时间遇见合适的人，得到正确引导」，你怎么看？",
           "url": "https://www.zhihu.com/question/2063821607458576344",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "日本游客锐减,仇越情绪爆发",
@@ -269,8 +304,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "成本压力加剧 高通芯片价格将上调两位数百分比",
@@ -279,7 +314,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
         },
@@ -290,7 +325,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
         }
@@ -305,55 +340,60 @@
           "url": "https://www.douyin.com/hot/2583150",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "夏天从玩水的那一刻开始",
           "url": "https://www.douyin.com/hot/2582577",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "一篇硕士学位论文13页大面积雷同疑似抄袭，中南大学：暑假结束再受理举报",
           "url": "https://m.thepaper.cn/newsDetail_forward_33652237",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "中国美术学院的录取通知书里附带 30 张速写作业，你怎么看高校给新生布置暑假作业？",
           "url": "https://www.zhihu.com/question/2064021093195814334",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         },
         {
           "title": "卡顿滤镜解锁故障画风",
           "url": "https://www.douyin.com/hot/2583417",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         }
       ]
     },
@@ -369,8 +409,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时26分]"
         }
       ]
     },
@@ -385,7 +425,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
         }
@@ -402,7 +442,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
         }
