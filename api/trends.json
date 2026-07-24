@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T11:27:02.987756+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-07-24T14:25:23.123541+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "吃瓜 八卦 爆料 恋情 官宣 绯闻 分手 复合 结婚 离婚 前任 前妻 前夫 辟谣 回应 道歉 热议 反转 翻车 争议 退票 害羞",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "论文疑遭蒋方舟抄袭，台湾原作者回应：学术共同体必须建立在诚信之上",
@@ -14,11 +14,26 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 11时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 14时25分]"
+        },
+        {
+          "title": "38岁清华毕业生回应被北大医学部录取：挺激动的，太不容易了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644389",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 14时25分]"
         },
         {
           "title": "足协辟谣米利西奇辞职",
@@ -28,35 +43,24 @@
             17,
             15,
             20,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 11时27分]"
-        },
-        {
-          "title": "38岁清华毕业生回应被北大医学部录取：挺激动的，太不容易了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644389",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 11时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 14时25分]"
         },
         {
           "title": "如何看待网传耗资 319 亿的腾讯全球总部「企鹅岛」疑基建翻车，员工疯狂吐槽质量奇差？",
           "url": "https://www.zhihu.com/question/2063727887748786109",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时25分]"
         },
         {
           "title": "多地发钱奖励结婚",
@@ -85,22 +89,35 @@
           "time_info": "[03时14分 ~ 08时00分]"
         },
         {
+          "title": "下铺空间是否公用 12306回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E9%93%BA%E7%A9%BA%E9%97%B4%E6%98%AF%E5%90%A6%E5%85%AC%E7%94%A8+12306%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时25分]"
+        },
+        {
+          "title": "火影侠隐水门全技能爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E4%BE%A0%E9%9A%90%E6%B0%B4%E9%97%A8%E5%85%A8%E6%8A%80%E8%83%BD%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时25分]"
+        },
+        {
           "title": "如何看待解说阿九爆料 Bin 半年来心路历程？",
           "url": "https://www.zhihu.com/question/2063647093231548330",
           "source": "知乎",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "下铺空间是否公用 12306回应",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E9%93%BA%E7%A9%BA%E9%97%B4%E6%98%AF%E5%90%A6%E5%85%AC%E7%94%A8+12306%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -164,17 +181,6 @@
           "time_info": "[11时26分 ~ 11时27分]"
         },
         {
-          "title": "火影侠隐水门全技能爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E4%BE%A0%E9%9A%90%E6%B0%B4%E9%97%A8%E5%85%A8%E6%8A%80%E8%83%BD%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
           "title": "广西一公园大树倾倒致3死3伤 官方回应",
           "url": "https://www.toutiao.com/trending/7665687980475944491/",
           "source": "今日头条",
@@ -209,6 +215,17 @@
           "time_info": "08时00分"
         },
         {
+          "title": "SK海力士会长需向前妻支付6.43亿美元",
+          "url": "https://www.baidu.com/s?wd=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%BC%9A%E9%95%BF%E9%9C%80%E5%90%91%E5%89%8D%E5%A6%BB%E6%94%AF%E4%BB%986.43%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "邓煜回应获菲尔兹奖",
           "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E7%85%9C%E5%9B%9E%E5%BA%94%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -223,7 +240,7 @@
     },
     {
       "keyword_group": "明星 艺人 演员 歌手 偶像 爱豆 综艺 电影 电视剧 新剧 票房 定档 预告 红毯 路透 生图 粉丝 追星 演唱会 音乐节 路演 杀青 开机 阵容 回归 造型 同框 互动 嗑CP",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "锐评张凌赫新剧",
@@ -244,11 +261,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 11时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 14时25分]"
         },
         {
           "title": "周星驰路演现场给小影迷唱生日歌",
@@ -357,6 +375,28 @@
           "time_info": "[03时14分 ~ 05时03分]"
         },
         {
+          "title": "如何看待周星驰电影《长江七号》最近在网络上获得好评？",
+          "url": "https://www.zhihu.com/question/2063330676313690982",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "官俊臣班成绩 全名校阵容",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E4%BF%8A%E8%87%A3%E7%8F%AD%E6%88%90%E7%BB%A9%20%E5%85%A8%E5%90%8D%E6%A0%A1%E9%98%B5%E5%AE%B9&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "如何评价索尼 FX5 (ILME-FX5) 电影摄影机？",
           "url": "https://www.zhihu.com/question/2063078233512456755",
           "source": "知乎",
@@ -385,7 +425,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -415,7 +455,7 @@
     },
     {
       "keyword_group": "上班 下班 职场 工作 打工人 摸鱼 同事 老板 加班 通勤 离职 跳槽 工位 请假 暑假工",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "赛里木湖景区通报工作人员殴打司机",
@@ -427,6 +467,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "温州老板9000万元“抄底”金条",
+          "url": "https://www.toutiao.com/trending/7665128377841352758/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "赛里木湖景区通报工作人员殴打司机",
@@ -464,6 +515,39 @@
           "time_info": "[05时03分 ~ 06时55分]"
         },
         {
+          "title": "「最爱发钱老板」因员工不孝当场将其辞退，你怎么看待他的做法？",
+          "url": "https://www.zhihu.com/question/2063710458448536790",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "温州老板9000万元“抄底”金条",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B7%9E%E8%80%81%E6%9D%BF9000%E4%B8%87%E5%85%83%E2%80%9C%E6%8A%84%E5%BA%95%E2%80%9D%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "赛里木湖景区通报工作人员殴打旅游车司机，7 人被辞退，如何看待此事？景区管理存在哪些问题？",
+          "url": "https://www.zhihu.com/question/2063817016037979454",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "美国高级官员：针对产能过剩问题的“301条款”调查仍在进行中，但需要大量研究和分析工作。",
           "url": "https://flash.jin10.com/detail/20260724050743787800",
           "source": "金十数据",
@@ -485,44 +569,48 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%AE%B6%E8%A3%B8%E4%BD%93%E8%A2%AB%E9%82%BB%E5%B1%85%E6%8B%8D%E7%85%A7%E5%8F%91%E7%BE%A4%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时25分]"
         },
         {
           "title": "如何看待越野跑被「上坟的路都比这陡，我小时候穿拖鞋都能跑」的评论嘲讽？",
           "url": "https://www.zhihu.com/question/2061077732331614428",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
-        },
-        {
-          "title": "女子称暑假坐月子 大女儿哭喊妈妈坏",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%9A%91%E5%81%87%E5%9D%90%E6%9C%88%E5%AD%90+%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%93%AD%E5%96%8A%E5%A6%88%E5%A6%88%E5%9D%8F",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时25分]"
         },
         {
           "title": "夏天到底能不能每天洗头",
           "url": "https://www.baidu.com/s?wd=%E5%A4%8F%E5%A4%A9%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E6%AF%8F%E5%A4%A9%E6%B4%97%E5%A4%B4",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时25分]"
+        },
+        {
+          "title": "女子称暑假坐月子 大女儿哭喊妈妈坏",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%9A%91%E5%81%87%E5%9D%90%E6%9C%88%E5%AD%90+%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%93%AD%E5%96%8A%E5%A6%88%E5%A6%88%E5%9D%8F",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时25分]"
         },
         {
           "title": "平安过暑假谨防溺水",
@@ -539,7 +627,7 @@
     },
     {
       "keyword_group": "单身 恋爱 相亲 脱单 暧昧 表白 约会 对象 另一半 男朋友 女朋友 伴侣 婚恋 催婚 异地恋 网恋 依赖 边界感 情绪价值 安全感",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "女子恋爱体检,性别竟为男性",
@@ -547,22 +635,24 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 11时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 14时25分]"
         },
         {
           "title": "邓煜知道获奖时在看恋爱向小说",
           "url": "https://www.toutiao.com/trending/7665885064399506971/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时25分]"
         },
         {
           "title": "加拿大对美依赖大幅降低",
@@ -574,12 +664,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "发现相亲一个很有趣的现象",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%8E%B0%E7%9B%B8%E4%BA%B2%E4%B8%80%E4%B8%AA%E5%BE%88%E6%9C%89%E8%B6%A3%E7%9A%84%E7%8E%B0%E8%B1%A1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
     {
       "keyword_group": "情感 失恋 焦虑 委屈 emo 心事 内耗 治愈 孤独 情绪 崩溃 压力 自我 热爱 幸运 松弛感",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
@@ -609,11 +710,51 @@
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%99%B9%EF%BC%9A%E5%BE%88%E5%B9%B8%E8%BF%90%E5%9C%A8%E5%90%88%E9%80%82%E6%97%B6%E9%97%B4%E9%81%87%E8%A7%81%E5%90%88%E9%80%82%E7%9A%84%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 14时25分]"
+        },
+        {
+          "title": "王虹获奖后感言：很幸运能够在合适的时间遇见合适的人，得到正确的引导",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33647849",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "音乐 新歌 歌曲 歌单 演唱会 音乐节 乐队 专辑 单曲 巡演 舞台 耳机 Kpop 说唱 民谣",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "JENNIE新歌MV上线",
+          "url": "https://www.douyin.com/hot/2583267",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "JENNIE新歌好适合夏天海边",
+          "url": "https://www.douyin.com/hot/2582811",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
